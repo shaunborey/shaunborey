@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Shaun Borey and I am a senior-level ASP.Net Web Applications Developer.
+
 <!--
 **shaunborey/shaunborey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
